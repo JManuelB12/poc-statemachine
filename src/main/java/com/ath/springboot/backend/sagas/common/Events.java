@@ -1,0 +1,6 @@
+package com.ath.springboot.backend.sagas.common;
+
+public enum Events
+{
+	START_STATE1, STATE1_CHOICE, CHOICE1_FORK, CHOICE2_FORK, TASK11_TASK12, TASK12_TASK13, TASK21_TASK22, TASK22_TASK23, STATE2_END
+}
